@@ -1,0 +1,593 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="feat_1">
+        <Style id="stylesel_0">
+            <IconStyle id="substyle_0">
+                <colorMode>normal</colorMode>
+                <scale>2</scale>
+                <heading>0</heading>
+                <Icon id="link_0">
+                    <href>icon.png</href>
+                </Icon>
+            </IconStyle>
+        </Style>
+        <Placemark id="feat_2">
+            <name>Current Position</name>
+            <description>PacketID 338
+Latitude 51.448162
+Longitude -0.085258
+Altitude 47.2
+Temperature 24.94
+Humidity 46.93
+Pressure 101477.87
+Sky temperature 20.71
+RSSI -108
+</description>
+            <styleUrl>#stylesel_0</styleUrl>
+            <Point id="geom_0">
+                <coordinates>-0.085258,51.448162,47.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_3">
+            <name>Trail</name>
+            <LineString id="geom_1">
+                <coordinates>-0.083107,51.439011,56.39 -0.083115,51.438988,56.16 -0.083115,51.438976,56.58 -0.083117,51.438938,56.4 -0.083117,51.438942,56.45 -0.083117,51.43895,56.38 -0.083117,51.438931,56.42 -0.083113,51.438942,57.0 -0.083105,51.438957,56.51 -0.083097,51.43895,56.730000000000004 -0.08309,51.438965,56.4 -0.083097,51.438976,56.33 -0.083082,51.438984,56.49 -0.083077,51.438984,56.38 -0.083077,51.438984,56.19 -0.083083,51.438988,56.69 -0.083098,51.439003,56.46 -0.083103,51.439007,56.88 -0.083103,51.439007,56.54 -0.083103,51.439007,56.58 -0.083103,51.439007,56.4 -0.083103,51.439007,56.82 -0.083103,51.439007,56.74 -0.083103,51.439007,56.45 -0.083103,51.439007,56.5 -0.083103,51.439007,56.58 -0.083103,51.439007,56.269999999999996 -0.083102,51.439007,56.39 -0.0831,51.439003,56.09 -0.083095,51.438995,56.5 -0.083103,51.439007,56.730000000000004 -0.083107,51.439007,56.44 -0.083102,51.439007,57.12 -0.083103,51.438999,55.79 -0.083092,51.438988,57.28 -0.083073,51.438984,57.96 -0.083,51.438992,58.37 -0.082975,51.438988,59.16 -0.082945,51.438988,58.79 -0.082927,51.438976,58.59 -0.082872,51.438992,57.31 -0.082807,51.43903,58.22 -0.08279,51.439034,57.769999999999996 -0.082807,51.439068,58.15 -0.082862,51.439178,59.38 -0.082893,51.439236,58.85 -0.082937,51.439301,57.69 -0.082983,51.439373,57.01 -0.08307,51.439484,57.12 -0.083143,51.439556,56.6 -0.0832,51.439629,57.17 -0.083245,51.439705,57.44 -0.083272,51.439774,56.769999999999996 -0.083303,51.439842,56.55 -0.083317,51.439911,55.8 -0.083325,51.43998,56.33 -0.08334,51.440052,55.14 -0.083335,51.440117,56.05 -0.083358,51.440178,55.3 -0.08338,51.440228,54.79 -0.083373,51.440266,54.95 -0.08338,51.4403,54.8 -0.083417,51.44038,55.03 -0.08342,51.44043,55.34 -0.083483,51.440487,56.019999999999996 -0.083542,51.440571,55.05 -0.083593,51.440647,55.47 -0.083635,51.440716,55.81 -0.08365,51.440762,56.24 -0.083672,51.440815,55.72 -0.083697,51.440865,56.45 -0.08372,51.440914,55.81 -0.083758,51.440956,55.45 -0.083775,51.441002,56.95 -0.08381,51.441044,56.39 -0.083837,51.441093,55.63 -0.083857,51.441143,55.61 -0.083883,51.441193,55.56 -0.083907,51.441254,56.18 -0.083932,51.441311,56.57 -0.083947,51.441368,55.68 -0.083975,51.441418,55.53 -0.084018,51.441471,55.2 -0.084057,51.441525,54.64 -0.084103,51.44157,54.8 -0.08413,51.441624,55.15 -0.084148,51.441666,54.58 -0.084162,51.441704,54.71 -0.084173,51.44173,54.72 -0.084183,51.441746,54.980000000000004 -0.084205,51.441742,54.7 -0.084278,51.441734,53.269999999999996 -0.084312,51.441738,54.15 -0.084338,51.441742,54.230000000000004 -0.084357,51.441742,54.01 -0.084397,51.44175,53.16 -0.084405,51.441757,53.91 -0.084415,51.441784,54.05 -0.084442,51.441799,53.51 -0.084457,51.441803,52.95 -0.084457,51.441807,53.83 -0.084463,51.441818,53.04 -0.08445,51.44183,53.96 -0.084412,51.441864,54.13 -0.084403,51.441902,54.28 -0.084355,51.441971,54.28 -0.084373,51.441967,54.15 -0.084363,51.441971,53.68 -0.084368,51.442024,53.46 -0.084418,51.442059,55.82 -0.084443,51.442104,54.38 -0.084467,51.442165,56.04 -0.0845,51.442226,54.58 -0.08453,51.442291,55.03 -0.084545,51.442352,54.06 -0.084568,51.442425,53.64 -0.08459,51.442513,55.36 -0.084623,51.442581,53.13 -0.084655,51.442657,55.28 -0.084675,51.442749,53.68 -0.084698,51.442825,56.01 -0.084713,51.442905,53.8 -0.084755,51.442974,54.49 -0.084747,51.443031,54.53 -0.084763,51.443104,53.7 -0.084797,51.44318,54.91 -0.08482,51.443253,54.1 -0.084847,51.443317,53.85 -0.08486,51.443394,53.95 -0.084877,51.443474,54.72 -0.084908,51.443619,53.84 -0.084937,51.443691,53.45 -0.084968,51.443832,54.8 -0.085015,51.443974,53.19 -0.085033,51.444038,52.94 -0.08505,51.444088,52.75 -0.085072,51.444145,52.19 -0.08509,51.44421,52.55 -0.085102,51.444275,52.29 -0.085127,51.444328,52.14 -0.085145,51.444389,51.13 -0.085192,51.444519,50.84 -0.085212,51.44458,50.47 -0.085235,51.444649,50.18 -0.085255,51.444725,49.7 -0.085263,51.444798,49.9 -0.085262,51.444866,50.36 -0.085253,51.444942,50.15 -0.085287,51.445087,49.79 -0.085313,51.445251,49.29 -0.085312,51.445324,49.21 -0.085315,51.445404,49.82 -0.085333,51.445461,48.36 -0.085342,51.445518,48.7 -0.08539,51.446117,47.4 -0.085398,51.446255,48.25 -0.085373,51.446465,48.01 -0.085362,51.44677,47.47 -0.085363,51.447086,46.83 -0.085358,51.447151,46.8 -0.085355,51.447216,46.62 -0.085577,51.447472,46.22 -0.085258,51.448162,47.2</coordinates>
+                <altitudeMode>absolute</altitudeMode>
+            </LineString>
+        </Placemark>
+        <Placemark id="feat_4">
+            <name/>
+            <description>PacketID 134
+Latitude 51.439011
+Longitude -0.083107
+Altitude 56.39
+Temperature 24.18
+Humidity 44.60
+Pressure 101367.40
+Sky temperature 19.17
+RSSI -79
+</description>
+            <Point id="geom_2">
+                <coordinates>-0.083107,51.439011,56.39</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_5">
+            <name/>
+            <description>PacketID 139
+Latitude 51.438950
+Longitude -0.083117
+Altitude 56.38
+Temperature 24.20
+Humidity 44.69
+Pressure 101367.52
+Sky temperature 19.25
+RSSI -65
+</description>
+            <Point id="geom_3">
+                <coordinates>-0.083117,51.43895,56.38</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_6">
+            <name/>
+            <description>PacketID 144
+Latitude 51.438965
+Longitude -0.083090
+Altitude 56.4
+Temperature 24.22
+Humidity 44.70
+Pressure 101367.22
+Sky temperature 19.17
+RSSI -63
+</description>
+            <Point id="geom_4">
+                <coordinates>-0.08309,51.438965,56.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_7">
+            <name/>
+            <description>PacketID 149
+Latitude 51.438988
+Longitude -0.083083
+Altitude 56.69
+Temperature 24.23
+Humidity 44.67
+Pressure 101363.79
+Sky temperature 19.35
+RSSI -62
+</description>
+            <Point id="geom_5">
+                <coordinates>-0.083083,51.438988,56.69</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_8">
+            <name/>
+            <description>PacketID 154
+Latitude 51.439007
+Longitude -0.083103
+Altitude 56.4
+Temperature 24.24
+Humidity 44.65
+Pressure 101367.20
+Sky temperature 19.47
+RSSI -63
+</description>
+            <Point id="geom_6">
+                <coordinates>-0.083103,51.439007,56.4</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_9">
+            <name/>
+            <description>PacketID 159
+Latitude 51.439007
+Longitude -0.083103
+Altitude 56.58
+Temperature 24.25
+Humidity 44.63
+Pressure 101365.13
+Sky temperature 19.47
+RSSI -68
+</description>
+            <Point id="geom_7">
+                <coordinates>-0.083103,51.439007,56.58</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_10">
+            <name/>
+            <description>PacketID 164
+Latitude 51.439007
+Longitude -0.083103
+Altitude 56.730000000000004
+Temperature 24.26
+Humidity 44.60
+Pressure 101363.23
+Sky temperature 19.51
+RSSI -39
+</description>
+            <Point id="geom_8">
+                <coordinates>-0.083103,51.439007,56.730000000000004</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_11">
+            <name/>
+            <description>PacketID 169
+Latitude 51.438984
+Longitude -0.083073
+Altitude 57.96
+Temperature 24.27
+Humidity 44.60
+Pressure 101348.50
+Sky temperature 19.57
+RSSI -64
+</description>
+            <Point id="geom_9">
+                <coordinates>-0.083073,51.438984,57.96</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_12">
+            <name/>
+            <description>PacketID 174
+Latitude 51.438992
+Longitude -0.082872
+Altitude 57.31
+Temperature 24.27
+Humidity 44.74
+Pressure 101356.26
+Sky temperature 19.71
+RSSI -68
+</description>
+            <Point id="geom_10">
+                <coordinates>-0.082872,51.438992,57.31</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_13">
+            <name/>
+            <description>PacketID 179
+Latitude 51.439236
+Longitude -0.082893
+Altitude 58.85
+Temperature 24.28
+Humidity 44.96
+Pressure 101337.86
+Sky temperature 19.67
+RSSI -75
+</description>
+            <Point id="geom_11">
+                <coordinates>-0.082893,51.439236,58.85</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_14">
+            <name/>
+            <description>PacketID 184
+Latitude 51.439629
+Longitude -0.083200
+Altitude 57.17
+Temperature 24.29
+Humidity 45.21
+Pressure 101366.55
+Sky temperature 19.79
+RSSI -83
+</description>
+            <Point id="geom_12">
+                <coordinates>-0.0832,51.439629,57.17</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_15">
+            <name/>
+            <description>PacketID 189
+Latitude 51.439980
+Longitude -0.083325
+Altitude 56.33
+Temperature 24.31
+Humidity 45.52
+Pressure 101368.03
+Sky temperature 19
+RSSI 29</description>
+            <Point id="geom_13">
+                <coordinates>-0.083325,51.43998,56.33</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_16">
+            <name/>
+            <description>PacketID 194
+Latitude 51.440266
+Longitude -0.083373
+Altitude 54.95
+Temperature 24.34
+Humidity 45.79
+Pressure 101382.03
+Sky temperature 19.95
+RSSI -90
+</description>
+            <Point id="geom_14">
+                <coordinates>-0.083373,51.440266,54.95</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_17">
+            <name/>
+            <description>PacketID 200
+Latitude 51.440571
+Longitude -0.083542
+Altitude 55.05
+Temperature 24.36
+Humidity 45.94
+Pressure 101383.51
+Sky temperature 20.01
+RSSI -87
+</description>
+            <Point id="geom_15">
+                <coordinates>-0.083542,51.440571,55.05</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_18">
+            <name/>
+            <description>PacketID 205
+Latitude 51.440865
+Longitude -0.083697
+Altitude 56.45
+Temperature 24.38
+Humidity 46.07
+Pressure 101366.71
+Sky temperature 20.11
+RSSI -89
+</description>
+            <Point id="geom_16">
+                <coordinates>-0.083697,51.440865,56.45</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_19">
+            <name/>
+            <description>PacketID 210
+Latitude 51.441093
+Longitude -0.083837
+Altitude 55.63
+Temperature 24.39
+Humidity 46.15
+Pressure 101376.52
+Sky temperature 20.11
+RSSI -91
+</description>
+            <Point id="geom_17">
+                <coordinates>-0.083837,51.441093,55.63</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_20">
+            <name/>
+            <description>PacketID 215
+Latitude 51.441368
+Longitude -0.083947
+Altitude 55.68
+Temperature 24.42
+Humidity 46.36
+Pressure 101375.92
+Sky temperature 20.11
+RSSI -96
+</description>
+            <Point id="geom_18">
+                <coordinates>-0.083947,51.441368,55.68</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_21">
+            <name/>
+            <Point id="geom_19">
+                <coordinates>-0.08413,51.441624,55.15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_22">
+            <name/>
+            <Point id="geom_20">
+                <coordinates>-0.084148,51.441666,54.58</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_23">
+            <name/>
+            <description>PacketID 222
+Latitude 51.441704
+Longitude -0.084162
+Altitude 54.71
+Temperature 24.45
+Humidity 46.66
+Pressure 101387.58
+Sky temperature 20.15
+RSSI -96
+</description>
+            <Point id="geom_21">
+                <coordinates>-0.084162,51.441704,54.71</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_24">
+            <name/>
+            <description>PacketID 227
+Latitude 51.441738
+Longitude -0.084312
+Altitude 54.15
+Temperature 24.48
+Humidity 46.68
+Pressure 101394.34
+Sky temperature 20.27
+RSSI -101
+</description>
+            <Point id="geom_22">
+                <coordinates>-0.084312,51.441738,54.15</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_25">
+            <name/>
+            <description>PacketID 232
+Latitude 51.441784
+Longitude -0.084415
+Altitude 54.05
+Temperature 24.51
+Humidity 46.63
+Pressure 101395.52
+Sky temperature 20.23
+RSSI -103
+</description>
+            <Point id="geom_23">
+                <coordinates>-0.084415,51.441784,54.05</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_26">
+            <name/>
+            <Point id="geom_24">
+                <coordinates>-0.08445,51.44183,53.96</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_27">
+            <name/>
+            <Point id="geom_25">
+                <coordinates>-0.084412,51.441864,54.13</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_28">
+            <name/>
+            <description>PacketID 240
+Latitude 51.441902
+Longitude -0.084403
+Altitude 54.28
+Temperature 24.52
+Humidity 46.18
+Pressure 101392.66
+Sky temperature 20.23
+RSSI -103
+</description>
+            <Point id="geom_26">
+                <coordinates>-0.084403,51.441902,54.28</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_29">
+            <name/>
+            <description>PacketID 246
+Latitude 51.442059
+Longitude -0.084418
+Altitude 55.82
+Temperature 24.53
+Humidity 46.13
+Pressure 101374.25
+Sky temperature 20.27
+RSSI -102
+</description>
+            <Point id="geom_27">
+                <coordinates>-0.084418,51.442059,55.82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_30">
+            <name/>
+            <description>PacketID 251
+Latitude 51.442352
+Longitude -0.084545
+Altitude 54.06
+Temperature 24.54
+Humidity 46.25
+Pressure 101394.95
+Sky temperature 20.37
+RSSI -102
+</description>
+            <Point id="geom_28">
+                <coordinates>-0.084545,51.442352,54.06</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_31">
+            <name/>
+            <description>PacketID 256
+Latitude 51.442749
+Longitude -0.084675
+Altitude 53.68
+Temperature 24.56
+Humidity 46.34
+Pressure 101399.94
+Sky temperature 20.39
+RSSI -98
+</description>
+            <Point id="geom_29">
+                <coordinates>-0.084675,51.442749,53.68</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_32">
+            <name/>
+            <description>PacketID 261
+Latitude 51.443104
+Longitude -0.084763
+Altitude 53.7
+Temperature 24.58
+Humidity 46.43
+Pressure 101399.64
+Sky temperature 20.43
+RSSI -101
+</description>
+            <Point id="geom_30">
+                <coordinates>-0.084763,51.443104,53.7</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_33">
+            <name/>
+            <description>PacketID 266
+Latitude 51.443474
+Longitude -0.084877
+Altitude 54.72
+Temperature 24.60
+Humidity 46.52
+Pressure 101387.37
+Sky temperature 20.45
+RSSI -104
+</description>
+            <Point id="geom_31">
+                <coordinates>-0.084877,51.443474,54.72</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_34">
+            <name/>
+            <description>PacketID 274
+Latitude 51.444038
+Longitude -0.085033
+Altitude 52.94
+Temperature 24.64
+Humidity 46.64
+Pressure 101413.88
+Sky temperature 20.45
+RSSI -103
+</description>
+            <Point id="geom_32">
+                <coordinates>-0.085033,51.444038,52.94</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_35">
+            <name/>
+            <Point id="geom_33">
+                <coordinates>-0.085127,51.444328,52.14</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_36">
+            <name/>
+            <Point id="geom_34">
+                <coordinates>-0.085145,51.444389,51.13</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_37">
+            <name/>
+            <description>PacketID 282
+Latitude 51.444519
+Longitude -0.085192
+Altitude 50.84
+Temperature 24.68
+Humidity 46.78
+Pressure 101433.98
+Sky temperature 20.61
+RSSI -103
+</description>
+            <Point id="geom_35">
+                <coordinates>-0.085192,51.444519,50.84</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_38">
+            <name/>
+            <description>PacketID 287
+Latitude 51.444866
+Longitude -0.085262
+Altitude 50.36
+Temperature 24.71
+Humidity 46.85
+Pressure 101439.80
+Sky temperature 20.55
+RSSI -105
+</description>
+            <Point id="geom_36">
+                <coordinates>-0.085262,51.444866,50.36</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_39">
+            <name/>
+            <description>PacketID 294
+Latitude 51.445404
+Longitude -0.085315
+Altitude 49.82
+Temperature 24.75
+Humidity 46.94
+Pressure 101446.28
+Sky temperature 20.59
+RSSI -104
+</description>
+            <Point id="geom_37">
+                <coordinates>-0.085315,51.445404,49.82</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_40">
+            <name/>
+            <description>PacketID 309
+Latitude 51.446465
+Longitude -0.085373
+Altitude 48.01
+Temperature 24.82
+Humidity 47.02
+Pressure 101468.13
+Sky temperature 20.61
+RSSI -104
+</description>
+            <Point id="geom_38">
+                <coordinates>-0.085373,51.446465,48.01</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_41">
+            <name/>
+            <Point id="geom_39">
+                <coordinates>-0.085577,51.447472,46.22</coordinates>
+            </Point>
+        </Placemark>
+        <Placemark id="feat_42">
+            <name/>
+            <description>PacketID 338
+Latitude 51.448162
+Longitude -0.085258
+Altitude 47.2
+Temperature 24.94
+Humidity 46.93
+Pressure 101477.87
+Sky temperature 20.71
+RSSI -108
+</description>
+            <Point id="geom_40">
+                <coordinates>-0.085258,51.448162,47.2</coordinates>
+            </Point>
+        </Placemark>
+    </Document>
+</kml>
