@@ -1,4 +1,4 @@
 # guacamole
 CanSAT Guacamole v1
-This is a brief code for CanSat Kite launcher device.
+This is a brief code for CanSat Kite Launcher device.
 As you can't have that particular device please feel free to harvest some code snippets from here.
