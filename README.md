@@ -6,3 +6,6 @@ Features:
   poor LoRa packet sending,
   primitive UX for OLED screen,
   some ok-ish ACKs for LoRa packets.
+
+THIS PROJECT WAS DISCONTINUED WITHOUT SUCCESS
+REASON: Lack of time
